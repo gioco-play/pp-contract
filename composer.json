@@ -1,0 +1,18 @@
+{
+    "name": "gioco-plus/pp-contract",
+    "description": "pp Interface",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "GiocoPlus\\PP\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ellie Su",
+            "email": "ellie.su@goldenf.co"
+        }
+    ],
+    "require": {}
+}
