@@ -1,9 +1,8 @@
 <?php
 declare(strict_types=1);
-namespace GiocoPlus\PS\Contract;
+namespace GiocoPlus\PP\Contract;
 
 interface PPServiceInterface {
-
     /**
      * 遊戲啟動
      *
